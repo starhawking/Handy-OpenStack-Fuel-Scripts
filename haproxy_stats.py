@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+
+# 2016 - Collin M. ziggit@starhawking.com
+
 import socket
 import prettytable
 import os
